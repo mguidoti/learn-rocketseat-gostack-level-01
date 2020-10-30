@@ -4,9 +4,11 @@ const app = express();
 
 app.get('/projects', (request, response) => {
     return response.json({ 
-        message: 'Hello World'
+        message: 'Hello GoStack!!!'
     });
 });
 
 // Listen to a specific port
-app.listen(3333);
+app.listen(3333, () => {
+    console.log('Back-end started! ¯\\\_(ツ)_/¯')
+});
