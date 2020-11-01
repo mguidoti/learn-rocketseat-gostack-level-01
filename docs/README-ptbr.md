@@ -15,8 +15,8 @@
     <img alt="Licença" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-level-01?color=04D361">
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/docs/README-ptbr.md">
-    <img alt="Idioma alternativo" src="https://img.shields.io/badge/alt%20language-pt--br-ffeb00"/>
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01">
+    <img alt="Idioma alternativo" src="https://img.shields.io/badge/alt%20language-eng-0498d3"/>
   </a>
 </p>
 
