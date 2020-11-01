@@ -2,7 +2,7 @@
 
 <h2 align="center">
   RocketSeat GoStack - Nível 01
-</h2w>
+</h2>
 
 <p align="center">
   <img alt="Última atualização" src="https://img.shields.io/github/last-commit/mguidoti/learn-rocketseat-gostack-level-01?color=04D361"/>
@@ -40,4 +40,4 @@
 ## Referências
 
 ## Licença
-MIT. Para maiores detlahes, por favor, acesse [aqui](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/main/LICENSE). 
+MIT. Para maiores detlahes, por favor, acesse [aqui](https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/LICENSE). 

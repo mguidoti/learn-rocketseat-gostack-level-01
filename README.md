@@ -40,4 +40,4 @@
 ## References
 
 ## License
-MIT. For more detail, please access [here](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/main/LICENSE). 
+MIT. For more detail, please access [here](https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/LICENSE). 
