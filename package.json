@@ -1,0 +1,14 @@
+{
+  "name": "nivel-01",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "backend",
+      "frontend"
+    ]
+  },
+  "repository": "git@github.com:mguidoti/learn-rocketseat-gostack-nivel01.git",
+  "author": "mguidoti <marcus.guidoti@gmail.com>",
+  "license": "MIT"
+}
