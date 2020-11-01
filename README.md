@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/master/assets/header.png">
+<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/assets/header.png">
 
 <h2 align="center">
   RocketSeat GoStack - Level 01
