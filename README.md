@@ -1,8 +1,8 @@
-<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/master/assets/header.png">
+<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/assets/header.png">
 
 <h2 align="center">
   RocketSeat GoStack - Level 01
-</h2w>
+</h2>
 
 <p align="center">
   <img alt="Last update" src="https://img.shields.io/github/last-commit/mguidoti/learn-rocketseat-gostack-level-01?color=04D361"/>
@@ -15,7 +15,7 @@
     <img alt="License" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-level-01?color=04D361">
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/master/docs/README-ptbr.md">
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/docs/README-ptbr.md">
     <img alt="Alt language" src="https://img.shields.io/badge/alt%20language-pt--br-ffeb00"/>
   </a>
 </p>
@@ -40,4 +40,4 @@
 ## References
 
 ## License
-MIT. For more detail, please access [here](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/LICENSE). 
+MIT. For more detail, please access [here](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/main/LICENSE). 

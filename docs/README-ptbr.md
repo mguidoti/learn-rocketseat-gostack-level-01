@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/master/assets/header.png">
+<img alt="GoStack" src="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/assets/header.png">
 
 <h2 align="center">
   RocketSeat GoStack - Nível 01
@@ -15,18 +15,18 @@
     <img alt="Licença" src="https://img.shields.io/github/license/mguidoti/learn-rocketseat-gostack-level-01?color=04D361">
   </a>
 
-  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/master/docs/README-ptbr.md">
+  <a href="https://github.com/mguidoti/learn-rocketseat-gostack-level-01/blob/main/docs/README-ptbr.md">
     <img alt="Idioma alternativo" src="https://img.shields.io/badge/alt%20language-pt--br-ffeb00"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="#About">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#How to Run">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#References">Referências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#License">Licença</a>
+  <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como Rodar">Como Rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Referências">Referências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Licença">Licença</a>
 </p>
 
 ## Sobre
@@ -40,4 +40,4 @@
 ## Referências
 
 ## Licença
-MIT. For more detail, please access [here](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/master/LICENSE). 
+MIT. Para maiores detlahes, por favor, acesse [aqui](https://github.com/mguidoti/learn-rocketseat-gostack-conceitos-nodejs/blob/main/LICENSE). 
