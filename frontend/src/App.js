@@ -16,15 +16,23 @@ function App() {
       })
     }, []);
 
-    function handleAddProject() {
+    async function handleAddProject() {
         // Old school JavaScript of doing things, not respecting the immutable
         // concept required by React
         //projects.push(`Novo projeto ${Date.now()}`);
 
         // Applying the immutable concept
-        setProjects([...projects, `Novo projeto ${Date.now()}`]);
+        //setProjects([...projects, `Novo projeto ${Date.now()}`]);
 
-        console.log(projects);
+        // Create the project in the API
+        const response = await api.post('/projects', {
+          title: `Novo projeto ${Date.now()}`,
+          owner: "Marcus Guidoti"
+        });
+
+        const project = response.data;
+
+        setProjects([...projects, project]);
     }
 
     return (
