@@ -105,6 +105,6 @@ app.delete('/projects/:id', (request, response) => {
 });
 
 // Listen to a specific port
-app.listen(3334, () => {
+app.listen(3333, () => {
     console.log('Back-end started! ¯\\\_(ツ)_/¯')
 }); 
