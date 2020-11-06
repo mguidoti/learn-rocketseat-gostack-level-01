@@ -5,7 +5,8 @@
   "workspaces": {
     "packages": [
       "backend",
-      "frontend"
+      "frontend",
+      "typescript"
     ]
   },
   "repository": "git@github.com:mguidoti/learn-rocketseat-gostack-nivel01.git",
